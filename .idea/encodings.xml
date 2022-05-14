@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/main/java/Main.java" charset="windows-1250" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Main.java" charset="windows-1250" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Model/Asteroid.java" charset="windows-1250" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Model/Coal.java" charset="windows-1250" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Model/Entity.java" charset="windows-1250" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Model/Game.java" charset="windows-1250" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Model/Iron.java" charset="windows-1250" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Model/Location.java" charset="windows-1250" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Model/Recipe.java" charset="windows-1250" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Model/Robot.java" charset="windows-1250" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Model/Settler.java" charset="windows-1250" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Model/Space.java" charset="windows-1250" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Model/Stepable.java" charset="windows-1250" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Model/Sun.java" charset="windows-1250" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Model/TeleportGate.java" charset="windows-1250" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Model/Uran.java" charset="windows-1250" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Model/Water.java" charset="windows-1250" />
+  </component>
+</project>
